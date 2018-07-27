@@ -2,7 +2,7 @@
 
 ## DoctorPlatform
 
-Truc de ouf genre doctolib
+Alors ça c'est mon doux et soyeux repo sur Doctolib version1+4 en mode fusion totale! 
 
 ### Prérequis 
 
@@ -23,3 +23,10 @@ Bon ça fonctionne, y a pas d'erreurs c'est cool mais tu peux aussi utiliser ton
 ### Contributeur
 
 Mario A.
+
+
+Ensuite c'est le même principe pour le repo Factory et et Airbndog, on va pas refaire un README c'est tard quand même.
+<br/>
+En ce qui concerne le Gossip, ce repo a été fait en groupe et a été orchestré par notre maestro Jihane!
+<br/>
+Bonne lecture et bonne journée
